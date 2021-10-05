@@ -6,7 +6,7 @@ from abc import ABCMeta, abstractmethod
 # print(s1, end='')
 
 #####################################
-s1 = '\'hello worldddd\''
+s1 = '\'hello world\''
 # s2 = '\n\\hello world!\\\n'
 # print(s1, s2, sep=',', end='')
 
